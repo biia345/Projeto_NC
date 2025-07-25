@@ -20,13 +20,17 @@ body {
 }
 
 #logo {
-    color: white;
-    text-indent: -1000px;
     background: url(./imagens/logo.png) no-repeat;
     width: 160px;
     height: 70px;
     margin-left: 100px;
     margin-top: 20px;
+
+    color: white;
+    text-indent: -9999px;
+    overflow: hidden;
+    white-space: nowrap;
+
 }
 
 /* barra de navegação */
