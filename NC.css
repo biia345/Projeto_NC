@@ -5,7 +5,7 @@
 
 body {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-    background: url(/imagens/fundo.png) repeat-x;
+    background: url(imagens/fundo.png) repeat-x;
 }
 
 #container {
@@ -16,13 +16,13 @@ body {
 #topo {
     height: 180px;
     border: 1px solid #2C4D6F;
-    background: url(/imagens/detalhe-topo.png) no-repeat right top;
+    background: url(imagens/detalhe-topo.png) no-repeat right top;
 }
 
 #logo {
     color: white;
     text-indent: -1000px;
-    background: url(/imagens/logo.png) no-repeat;
+    background: url(imagens/logo.png) no-repeat;
     width: 160px;
     height: 70px;
     margin-left: 100px;
@@ -302,7 +302,7 @@ ul {
 }
 
 #lateral ul a:hover {
-    background: #ebebeb url(/imagens/marcador.png) no-repeat center left;
+    background: #ebebeb url(imagens/marcador.png) no-repeat center left;
     padding-left: 20px;
     color: #a3a3a3
 }
