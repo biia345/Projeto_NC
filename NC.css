@@ -21,7 +21,7 @@ body {
 
 #logo {
     color: white;
-    /* text-indent: -1000px; */
+    text-indent: -1000px;
     background: url(./imagens/logo.png) no-repeat;
     width: 160px;
     height: 70px;
